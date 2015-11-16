@@ -1,0 +1,23 @@
+First Level
+20 x 20
+6 14
+XXXXXXXXX XXXXXXXXXX
+X              A   X
+X                  X
+X   X    X          
+X        X         X
+X        X         X
+X        X         X
+X                  X
+X      X           X
+     XXXX XXXX
+X                  X
+X                  X
+X              @   X
+X        X         X
+X   A              X
+X        X         X
+X                  X
+X              @   X
+X       X X        X
+XXXXXXXXX XXXXXXXXXX
